@@ -1,4 +1,4 @@
-from Bangla_transformer import Bangla_sentence_transformer_small
+from Bangla-sentence-embedding-transformer.Bangla_transformer import Bangla_sentence_transformer_small
 
 transformer=Bangla_sentence_transformer_small()
 
