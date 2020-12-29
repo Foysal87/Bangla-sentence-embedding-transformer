@@ -12,12 +12,17 @@ Embedding dimension is 300d.
 ## Python package
 ```buildoutcfg
 sentence_transformers
+
+#install it by below command
+
+pip3 install sentence_transformers
 ```
 
 ## Model download
 As my model size is 1.1gb, I can't upload it here. So i upload it in google drive.
 [drive link](https://drive.google.com/file/d/1qvljgnus6L4vYR5XxxyhJjolM9v6Ws-Q/view?usp=sharing)
 
+Clone this project, then download my model. 
 After download, unzip the folder in 'Bangla-sentence-embedding-transformer' directory.
 
 ## How to use it?
