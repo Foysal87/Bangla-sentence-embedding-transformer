@@ -1,13 +1,13 @@
 # Bangla-sentence-embedding-transformer
 
-This is Transformer base bangla sentence embedding. I trained 2,50,000 Bangla sentences(wiki) by sentence transformer.
+This is a Transformer base bangla sentence embedding. I trained 2,50,000 Bangla sentences(wiki) by sentence transformer.
 Embedding dimension is 300d.
 
 ## What do you get from here?
 
 * A pretrained Sentence embedding using transformer
 * How to add new data and train it?
-* How to create my own pretrained sentence embedding model?
+* How to create Your own pretrained sentence embedding model?
 
 ## Python package
 ```buildoutcfg
