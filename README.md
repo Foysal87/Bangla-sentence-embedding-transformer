@@ -22,6 +22,8 @@ pip3 install sentence_transformers
 As my model size is 1.1gb, I can't upload it here. So i upload it in google drive.
 [drive link](https://drive.google.com/file/d/1qvljgnus6L4vYR5XxxyhJjolM9v6Ws-Q/view?usp=sharing)
 
+**Or You can use our python module [sbnltk](https://github.com/Foysal87/sbnltk) . Check it!**
+
 Clone this project, then download my model. 
 After download, unzip the folder in 'Bangla-sentence-embedding-transformer' directory.
 
@@ -64,7 +66,7 @@ for i in range(len(sentences)):
 
 If you want to train more data or add data, you should install 'Cuda' GPU.\
 If you haven't any nvidia graphics card, You should use Google Colab GPU. \
-TPU is very much slow for transformers model.
+CPU is very much slow for transformers model.
 
 Suppose you have a dataset, now you want to train and with my model.
 ```python
